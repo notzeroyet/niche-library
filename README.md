@@ -5,7 +5,7 @@ they are and what they love, then open the Etsy Check on any idea before you des
 
 **Use it online if you're not tech savvy:** https://notzeroyet.com/niche-library/
 
-**Video tutorial: https://youtu.be/vztem4pxzYQ
+**Video tutorial:** [Watch the Niche Library walkthrough on YouTube](https://youtu.be/vztem4pxzYQ)
 
 ## Open your own copy
 
