@@ -3,13 +3,13 @@
 Free niche ideas for print on demand shirts and products. Mix more than 1,300 niches by what people do, who
 they are and what they love, then open the Etsy Check on any idea before you design it.
 
-**Use it online, nothing to download:** https://notzeroyet.com/niche-library/
+**Use it online if you're not tech savvy:** https://notzeroyet.com/niche-library/
 
-**Video tutorial:** coming soon.
+**Video tutorial: https://youtu.be/vztem4pxzYQ
 
 ## Open your own copy
 
-The whole tool is one file, `index.html`. There's nothing to install and no account to make.
+The whole tool is one file, `index.html`. There's nothing to install and no accounts necessary.
 
 1. On this page, click the green **Code** button, then **Download ZIP**.
 2. Unzip it. On a Mac, double click the ZIP file. On Windows, right click it and choose **Extract All**.
@@ -44,7 +44,6 @@ sends nothing anywhere. (The website version counts visits with Google Analytics
 
 - [Idea Spinner](https://notzeroyet.com/idea-spinner/): turn a niche into POD phrases, titles and tags.
 - [TypePress](https://notzeroyet.com/typepress/): turn phrases into print ready designs in bulk.
-- [Listing Collector for Etsy](https://github.com/notzeroyet/listing-collector-for-etsy): a Chrome extension that saves Etsy listings into research lists.
 - [Etsy profit calculator](https://notzeroyet.com/etsy-print-on-demand-profit-calculator/): free on notzeroyet.com.
 
 ## Support
