@@ -48,7 +48,7 @@ sends nothing anywhere. (The website version counts visits with Google Analytics
 
 ## Support
 
-This tool is free, and it stays free. If it helped you, you can [buy me a coffee on Ko-fi](https://ko-fi.com/derekryans). Your support is highly
+This tool is free, and it stays free. If it helped you, you can [buy me a boba on Ko-fi](https://ko-fi.com/derekryans). Your support is highly
 appreciated! Video tutorials for every tool are on the [Not Zero Yet YouTube channel](https://www.youtube.com/@NotZeroYet?sub_confirmation=1).
 
 ## License
